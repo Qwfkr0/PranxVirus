@@ -1,0 +1,126 @@
+MsgBox"Your computer has been cracked",48,"System Error"
+Set wshshell = wscript.CreateObject("wscript.shell")
+wshshell.run "Notepad"
+wscript.sleep 1000
+wshshell.AppActivate "Notepad"
+WshShell.Sendkeys "H"
+Wscript.Sleep 200
+WshShell.Sendkeys "e"
+Wscript.Sleep 200
+WshShell.Sendkeys "l"
+Wscript.Sleep 200
+WshShell.Sendkeys "l"
+Wscript.Sleep 200
+WshShell.Sendkeys "o"
+Wscript.Sleep 200
+WshShell.Sendkeys ","
+Wscript.Sleep 200
+WshShell.Sendkeys " "
+Wscript.Sleep 200
+WshShell.Sendkeys "d"
+Wscript.Sleep 200
+WshShell.Sendkeys "e"
+Wscript.Sleep 200
+WshShell.Sendkeys "a"
+Wscript.Sleep 200
+WshShell.Sendkeys "r"
+Wscript.Sleep 200
+WshShell.Sendkeys " "
+Wscript.Sleep 200
+WshShell.Sendkeys "u"
+Wscript.Sleep 200
+WshShell.Sendkeys "s"
+Wscript.Sleep 200
+WshShell.Sendkeys "e"
+Wscript.Sleep 200
+WshShell.Sendkeys "r"
+Wscript.Sleep 200
+WshShell.Sendkeys "."
+Wscript.Sleep 2000
+WshShell.Sendkeys " "
+Wscript.Sleep 200
+WshShell.Sendkeys "Y"
+Wscript.Sleep 200
+WshShell.Sendkeys "o"
+Wscript.Sleep 200
+WshShell.Sendkeys "u"
+Wscript.Sleep 200
+WshShell.Sendkeys "r"
+Wscript.Sleep 200
+WshShell.Sendkeys " "
+Wscript.Sleep 200
+WshShell.Sendkeys "c"
+Wscript.Sleep 200
+WshShell.Sendkeys "o"
+Wscript.Sleep 200
+WshShell.Sendkeys "m"
+Wscript.Sleep 200
+WshShell.Sendkeys "p"
+Wscript.Sleep 200
+WshShell.Sendkeys "u"
+Wscript.Sleep 200
+WshShell.Sendkeys "t"
+Wscript.Sleep 200
+WshShell.Sendkeys "e"
+Wscript.Sleep 200
+WshShell.Sendkeys "r"
+Wscript.Sleep 200
+WshShell.Sendkeys " "
+Wscript.Sleep 200
+WshShell.Sendkeys "h"
+Wscript.Sleep 200
+WshShell.Sendkeys "a"
+Wscript.Sleep 200
+WshShell.Sendkeys "s"
+Wscript.Sleep 200
+WshShell.Sendkeys " "
+Wscript.Sleep 200
+WshShell.Sendkeys "b"
+Wscript.Sleep 200
+WshShell.Sendkeys "e"
+Wscript.Sleep 200
+WshShell.Sendkeys "e"
+Wscript.Sleep 200
+WshShell.Sendkeys "n"
+Wscript.Sleep 200
+WshShell.Sendkeys " "
+Wscript.Sleep 200
+WshShell.Sendkeys "C"
+Wscript.Sleep 200
+WshShell.Sendkeys "R"
+Wscript.Sleep 200
+WshShell.Sendkeys "A"
+Wscript.Sleep 200
+WshShell.Sendkeys "C"
+Wscript.Sleep 200
+WshShell.Sendkeys "K"
+Wscript.Sleep 200
+WshShell.Sendkeys "E"
+Wscript.Sleep 200
+WshShell.Sendkeys "D"
+Wscript.Sleep 200
+WshShell.Sendkeys "."
+Wscript.Sleep 2000
+WshShell.Sendkeys " "
+Wscript.Sleep 200
+WshShell.Sendkeys "G"
+Wscript.Sleep 200
+WshShell.Sendkeys "o"
+Wscript.Sleep 200
+WshShell.Sendkeys "o"
+Wscript.Sleep 200
+WshShell.Sendkeys "d"
+Wscript.Sleep 200
+WshShell.Sendkeys " "
+Wscript.Sleep 200
+WshShell.Sendkeys "L"
+Wscript.Sleep 200
+WshShell.Sendkeys "u"
+Wscript.Sleep 200
+WshShell.Sendkeys "c"
+Wscript.Sleep 200
+WshShell.Sendkeys "k"
+Wscript.Sleep 200
+WshShell.Sendkeys "."
+Wscript.Sleep 3000
+MsgBox"Say goodbye!!",48,"XD"
