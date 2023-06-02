@@ -1,0 +1,14 @@
+do
+  MsgBox"ERROR",16,"ERROR"
+  MsgBox"ERROR",16,"ERROR"
+  MsgBox"ERROR",16,"ERROR"
+  MsgBox"ERROR",16,"ERROR"
+  MsgBox"ERROR",16,"ERROR"
+  MsgBox"ERROR",16,"ERROR"
+  MsgBox"ERROR",16,"ERROR"
+  MsgBox"ERROR",16,"ERROR"
+  MsgBox"ERROR",16,"ERROR"
+  MsgBox"ERROR",16,"ERROR"
+  MsgBox"ERROR",16,"ERROR"
+  MsgBox"ERROR",16,"ERROR"
+loop
